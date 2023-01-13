@@ -1,0 +1,18 @@
+/* Style For Confirm Order */
+.service-input {
+    display: flex;
+    flex-direction: column;
+}
+.service-input input {
+    background-color: rgb(247, 245, 245);
+    padding: 10px;
+    margin: 5px 0px;
+}
+.service-form-submit {
+    background-color: #F97150;
+    width: 100%;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    margin-top: 5px;
+}
